@@ -1,4 +1,4 @@
-# Distracted Driver Image Classification Project
+# ML Project : Distracted Driver Recognition Project
 
 This project aims to classify images of drivers into different categories based on their activities, such as safe driving, texting, talking on the phone, etc. The project uses various machine learning algorithms, including SVM, KNN, and Random Forest, as well as deep learning techniques with Convolutional Neural Networks (CNN).
 
