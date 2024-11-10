@@ -2,7 +2,7 @@
 
 This project aims to classify images of drivers into different categories based on their activities, such as safe driving, texting, talking on the phone, etc. The project uses various machine learning algorithms, including SVM, KNN, and Random Forest, as well as deep learning techniques with Convolutional Neural Networks (CNN).
 
-# Project Link
+# Project Links
 - [Project on Kaggle](https://www.kaggle.com/code/arihantdebnath/distracted-driver?scriptVersionId=206176672)
 - [Project on Collab](https://colab.research.google.com/drive/1tifgr94NkAfzIR9G3cl32NKJ98T15rsS?usp=sharing)
 
@@ -76,6 +76,13 @@ This project aims to classify images of drivers into different categories based 
 ## Results
 
 The project evaluates the performance of different algorithms using metrics such as accuracy, confusion matrix, and classification report.
+
+## Project by:
+Project by:
+ARIHANT DEBNATH [RA2211003011033]
+DIVA MERJA [RA2211003011034]
+MAKADIA YAKSH VIJAYAKUMAR[RA2211003011035]
+KRISHNA WADHWANI[RA2211003011045]
 
 ## License
 
