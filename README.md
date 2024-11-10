@@ -78,11 +78,10 @@ This project aims to classify images of drivers into different categories based 
 The project evaluates the performance of different algorithms using metrics such as accuracy, confusion matrix, and classification report.
 
 ## Project by:
-Project by:
-ARIHANT DEBNATH [RA2211003011033]
-DIVA MERJA [RA2211003011034]
-MAKADIA YAKSH VIJAYAKUMAR[RA2211003011035]
-KRISHNA WADHWANI[RA2211003011045]
+ARIHANT DEBNATH [RA2211003011033] <br>
+DIVA MERJA [RA2211003011034] <br>
+MAKADIA YAKSH VIJAYAKUMAR[RA2211003011035] <br>
+KRISHNA WADHWANI[RA2211003011045] <br>
 
 ## License
 
